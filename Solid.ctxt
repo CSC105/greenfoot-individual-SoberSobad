@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Solid
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ solid\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=x\ y
+comment1.target=Solid(int,\ int)
+comment2.params=
+comment2.target=int\ getX()
+comment3.params=
+comment3.target=int\ getY()
+comment4.params=
+comment4.target=int\ getXspeed()
+comment5.params=
+comment5.target=long\ getScore()
+comment6.params=
+comment6.target=int\ getCombo()
+comment7.params=block\ x\ y\ angle\ layer
+comment7.target=void\ hit(Block,\ int,\ int,\ int,\ int)
+comment8.params=
+comment8.target=void\ fall()
+comment9.params=
+comment9.target=void\ act()
+numComments=10
