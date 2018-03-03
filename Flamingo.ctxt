@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Flamingo
+comment1.params=x\ y
+comment1.target=Flamingo(int,\ int)
+comment2.params=x\ y
+comment2.target=void\ setPos(int,\ int)
+comment3.params=xspeed
+comment3.target=void\ setXspeed(int)
+comment4.params=b
+comment4.target=void\ setVisible(boolean)
+comment5.params=
+comment5.target=void\ act()
+numComments=6
